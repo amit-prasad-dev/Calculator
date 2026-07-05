@@ -10,12 +10,15 @@ A simple and modern Calculator User Interface built using HTML and CSS.
 
 ✅ Modern dark theme
 
-⏳ JavaScript functionality is under development and will be added soon.
+✅ JavaScript functionality implemented
+
+✅ Basic arithmetic operations working
 
 ## Technologies Used
 
 * HTML5
 * CSS3
+* JavaScript (ES6)
 
 ## Features
 
@@ -25,12 +28,10 @@ A simple and modern Calculator User Interface built using HTML and CSS.
 * Hover effects on buttons
 * Responsive structure
 
-## Upcoming Features
-
-* Basic arithmetic operations (+, -, *, /)
-* Clear (AC) button functionality
-* Delete (DEL) functionality
-* Percentage calculations
+* AC (Clear All) functionality
+* DEL (Delete Last Character) functionality
+* Basic arithmetic operations
+* Percentage (%) support
 * Decimal number support
 
 ## Project Structure
@@ -38,7 +39,7 @@ A simple and modern Calculator User Interface built using HTML and CSS.
 calculator/
 ├── index.html
 ├── style.css
-├── script.js (Coming Soon)
+├── script.js 
 └── README.md
 
 ## Learning Outcome
@@ -49,6 +50,10 @@ Through this project, I practiced:
 * CSS Flexbox
 * Styling buttons and inputs
 * Responsive UI design
+* DOM Manipulation
+* Event Handling
+* JavaScript Functions
+* Building interactive web applications
 
 ## Author
 
