@@ -39,8 +39,9 @@ A simple and modern Calculator User Interface built using HTML and CSS.
 calculator/
 ├── index.html
 ├── style.css
-├── script.js 
-└── README.md
+├── script.js
+├── README.md
+└── .gitignore
 
 ## Learning Outcome
 
